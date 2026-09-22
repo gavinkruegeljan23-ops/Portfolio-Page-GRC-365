@@ -69,28 +69,7 @@
         </a>
         <figcaption>Self Drawing on Illustrator</figcaption>
     </figure>
-    <!-- Drawing 4 -->
-    <figure>
-        <a href="highres-drawing4.jpg" target="_blank">
-        <img src="../OneDrive/Documents/Unnamed Site 2/a1.PNG" alt="Drawing 4">
-        </a>
-      <figcaption>DragonClans Title Screen</figcaption>
-        <figcaption>&nbsp;</figcaption>
-    </figure>
-    <!-- Drawing 5 -->
-    <figure>
-        <a href="highres-drawing5.jpg" target="_blank">
-        <img src="Screenshot 2026-09-15 124315.png" alt="Drawing 5">
-        </a>
-        <figcaption>The Museum A style of Andy Warhol</figcaption>
-  </figure>
-    <!-- Drawing 6 -->
-    <figure>
-        <a href="highres-drawing6.jpg" target="_blank">
-        <img src="Screenshot 2026-09-15 124742.png" alt="Drawing 6">
-        </a>
-        <figcaption>Work Hard Play Hard Nike Photoshoot</figcaption>
-    </figure>
+
 
 </div>
 
