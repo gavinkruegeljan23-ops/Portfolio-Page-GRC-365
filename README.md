@@ -77,7 +77,7 @@
     <!-- Drawing 4 -->
     <figure>
         <a href="highres-drawing4.jpg" target="_blank">
-        <img src="Capturer.PNG" alt="Drawing 4">
+         <img src="../OneDrive/Documents/Unnamed Site 2/a1.PNG" alt="Drawing 4">
         </a>
       <figcaption>DragonClans Title Screen</figcaption>
         <figcaption>&nbsp;</figcaption>
