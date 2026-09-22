@@ -1,5 +1,4 @@
-<html>
-<head>
+<!DOCTYPE html><html><head>
     <meta charset="UTF-8">
     <title>My Portfolio</title>
 
@@ -47,10 +46,6 @@
 </head>
 
 <body>
-
-<h1>My Portfolio</h1>
-
-<div class="portfolio-box">
 
 <div class="portfolio-box">
     <!-- Drawing 1 -->
