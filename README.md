@@ -1,5 +1,8 @@
- <meta charset="UTF-8">
+<html>
+<head>
+    <meta charset="UTF-8">
     <title>My Portfolio</title>
+
     <style>
         body {
             font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
@@ -7,6 +10,7 @@
             margin: 0 auto;
             padding: 20px;
         }
+
         h1 {
             font-size: 64pt;
             margin-bottom: 20px;
@@ -15,22 +19,26 @@
         0 0 12px #E033FF,
         0 0 24px #E033FF;
         }
+
         /* Flexbox container */
         .portfolio-box {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
         }
+
         figure {
             width: 200px;
             text-align: center;
         }
+
         figure img {
             width: 200px;
             height: auto;
             border: 1px solid #ccc;
             box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
         }
+
         figcaption {
             font-size: 12pt;
             margin-top: 8px;
@@ -41,6 +49,8 @@
 <body>
 
 <h1>My Portfolio</h1>
+
+<div class="portfolio-box">
 
 <div class="portfolio-box">
     <!-- Drawing 1 -->
