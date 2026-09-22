@@ -47,7 +47,8 @@
 
 <body>
 
-<div class="portfolio-box">
+<h1>My Portfolio</h1>
+
     <!-- Drawing 1 -->
     <figure>
       <a href="highres-drawing1.jpg" target="_blank">
