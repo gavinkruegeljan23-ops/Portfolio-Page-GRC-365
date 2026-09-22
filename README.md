@@ -1,7 +1,7 @@
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
     <title>My Portfolio</title>
-
+	
     <style>
         body {
             font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
@@ -9,7 +9,7 @@
             margin: 0 auto;
             padding: 20px;
         }
-
+		
         h1 {
             font-size: 64pt;
             margin-bottom: 20px;
